@@ -11,11 +11,6 @@ fs.mkdir('createdDir2', () => {
 })
 
 
-
-
-
-
-
 // DELETING DIRECTORIES
 // directories can only be removed if empty
 // synchronous
